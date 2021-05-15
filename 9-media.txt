@@ -1,0 +1,3 @@
+1-lampada.txt  4-debito.txt	7-somatres.txt	  README.md
+2-pratos.txt   5-prova.txt	8-parouimpar.txt  reprograma-on12-backend
+3-pneu.txt     6-mortovivo.txt	9-media.txt
